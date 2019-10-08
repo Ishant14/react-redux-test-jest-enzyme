@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component  it should render properly  1`] = `
+<header>
+  <div
+    className="wrap"
+  >
+    <div
+      className="logo1"
+    >
+      REACT-JEST
+    </div>
+    <div>
+      sdf
+    </div>
+  </div>
+</header>
+`;
